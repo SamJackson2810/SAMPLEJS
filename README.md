@@ -1,2 +1,2 @@
-# SAMPLEJS
-# hello
+# Hello
+# Welcome to my Github
